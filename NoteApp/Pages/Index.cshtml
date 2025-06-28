@@ -1,0 +1,16 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Note";
+}
+
+<h1>Ghi chú</h1>
+<form method="POST">
+    <textarea asp-for="NewNote"></textarea>
+    <button type="submit"> Thêm </button>
+</form>
+<ul>
+    @foreach (var n in Model.Notes){
+        <li>@n.Content</li>
+    }
+</ul>

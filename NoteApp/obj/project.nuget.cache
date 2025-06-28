@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "SgkalFHTquk=",
+  "success": true,
+  "projectFilePath": "E:\\Sun Ivy\\TransferData\\NoteApp\\NoteApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Trang\\.nuget\\packages\\oracle.manageddataaccess.core\\23.8.0\\oracle.manageddataaccess.core.23.8.0.nupkg.sha512",
+    "C:\\Users\\Trang\\.nuget\\packages\\system.configuration.configurationmanager\\9.0.6\\system.configuration.configurationmanager.9.0.6.nupkg.sha512",
+    "C:\\Users\\Trang\\.nuget\\packages\\system.diagnostics.eventlog\\9.0.6\\system.diagnostics.eventlog.9.0.6.nupkg.sha512",
+    "C:\\Users\\Trang\\.nuget\\packages\\system.diagnostics.performancecounter\\8.0.0\\system.diagnostics.performancecounter.8.0.0.nupkg.sha512",
+    "C:\\Users\\Trang\\.nuget\\packages\\system.directoryservices.protocols\\8.0.0\\system.directoryservices.protocols.8.0.0.nupkg.sha512",
+    "C:\\Users\\Trang\\.nuget\\packages\\system.formats.asn1\\8.0.1\\system.formats.asn1.8.0.1.nupkg.sha512",
+    "C:\\Users\\Trang\\.nuget\\packages\\system.memory\\4.6.0\\system.memory.4.6.0.nupkg.sha512",
+    "C:\\Users\\Trang\\.nuget\\packages\\system.security.cryptography.pkcs\\8.0.1\\system.security.cryptography.pkcs.8.0.1.nupkg.sha512",
+    "C:\\Users\\Trang\\.nuget\\packages\\system.security.cryptography.protecteddata\\9.0.6\\system.security.cryptography.protecteddata.9.0.6.nupkg.sha512",
+    "C:\\Users\\Trang\\.nuget\\packages\\system.security.permissions\\9.0.6\\system.security.permissions.9.0.6.nupkg.sha512",
+    "C:\\Users\\Trang\\.nuget\\packages\\system.windows.extensions\\9.0.6\\system.windows.extensions.9.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}
