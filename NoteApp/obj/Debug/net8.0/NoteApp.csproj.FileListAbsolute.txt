@@ -1,8 +1,0 @@
-E:\Sun Ivy\TransferData\NoteApp\obj\Debug\net8.0\NoteApp.csproj.AssemblyReference.cache
-E:\Sun Ivy\TransferData\NoteApp\obj\Debug\net8.0\NoteApp.GeneratedMSBuildEditorConfig.editorconfig
-E:\Sun Ivy\TransferData\NoteApp\obj\Debug\net8.0\NoteApp.AssemblyInfoInputs.cache
-E:\Sun Ivy\TransferData\NoteApp\obj\Debug\net8.0\NoteApp.AssemblyInfo.cs
-E:\Sun Ivy\TransferData\NoteApp\obj\Debug\net8.0\NoteApp.csproj.CoreCompileInputs.cache
-E:\Sun Ivy\TransferData\NoteApp\obj\Debug\net8.0\NoteApp.MvcApplicationPartsAssemblyInfo.cache
-E:\Sun Ivy\TransferData\NoteApp\obj\Debug\net8.0\NoteApp.RazorAssemblyInfo.cache
-E:\Sun Ivy\TransferData\NoteApp\obj\Debug\net8.0\NoteApp.RazorAssemblyInfo.cs
