@@ -69,3 +69,4 @@ E:\Sun Ivy\TransferData\OracleToSqlService\bin\Debug\net8.0\runtimes\win\lib\net
 E:\Sun Ivy\TransferData\OracleToSqlService\bin\Debug\net8.0\runtimes\linux\lib\net8.0\System.DirectoryServices.Protocols.dll
 E:\Sun Ivy\TransferData\OracleToSqlService\bin\Debug\net8.0\runtimes\osx\lib\net8.0\System.DirectoryServices.Protocols.dll
 E:\Sun Ivy\TransferData\OracleToSqlService\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.DirectoryServices.Protocols.dll
+E:\Sun Ivy\TransferData\OracleToSqlService\obj\Debug\net8.0\OracleToSqlService.sourcelink.json

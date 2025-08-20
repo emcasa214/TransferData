@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OracleToSqlService")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+551eeeacb0b28a0dd1f5ec007b6181cc7de34f97")]
 [assembly: System.Reflection.AssemblyProductAttribute("OracleToSqlService")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OracleToSqlService")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
